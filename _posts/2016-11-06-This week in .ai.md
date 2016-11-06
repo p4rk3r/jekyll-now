@@ -29,14 +29,4 @@ _Ingesting a heap of drug data allows a machine-learning system to suggest alter
 - Another breakthrough in another field boosted by Deep Learning which will completely change the way we discover drugs and will accelerate the progress in this field by reducing time and cost and will lead to revolutionary discoveries in key areas like cancer research etc. 
 - This alongside other recent breakthroughs like new gene editing techniques like CRISPR-Cas9 will transform the face of medicine forever - Think like Medicine 2.0
 
-There are a couple of more interesting developments in AI this week but I will keep them for my next post... In the meanwhile you can enjoy some of my "experiments" in the "Lab" yesterday night ;-)
-
-## In the Lab
-
-![]({{site.baseurl}}/images/Post_2016-11-06_Brindasso1.png) ![]({{site.baseurl}}/images/Post_2016-11-06_Brindasso3.png)
-
-
-
-
-
-
+There are a couple of more interesting developments in AI this week but I will keep them for my next post... 
