@@ -19,7 +19,14 @@ After a crazy night in the "Lab" experimenting with liquid nitrogen and all sort
 ## Discovering new drugs with Deep Learning 
 _Ingesting a heap of drug data allows a machine-learning system to suggest alternatives humans hadn’t tried yet. ([Link](https://www.technologyreview.com/s/602756/software-dreams-up-new-molecules-in-quest-for-wonder-drugs/))_
 
-**Highlits:** A new artificial intelligence aims to create new drugs by learning what molecules already work and what may fit with existing patterns. 
+**Highlits:** A new artificial intelligence aims to create new drugs by learning what molecules already work and what may fit with existing patterns. _"The system can dream up structures more independently of humans and without lengthy simulations. It leverages its own experience, built up by training machine-learning algorithms with data on hundreds of thousands of drug-like molecules. It explores more intuitively, using chemical knowledge it learned, like a chemist would"_
+
+**My take:** 
+
+- Another breakthrough in another field boosted by Deep Learning which will completely change the way we discover drugs and will accelerate the progress in this field by reducing time and cost and will lead to revolutionary discoveries in key areas like cancer research etc. 
+- This alongside other recent breakthroughs like new gene editing techniques like CRISPR-Cas9 will transform the face of medicine forever - Think like Medicine 2.0
+
+
 
 
 
