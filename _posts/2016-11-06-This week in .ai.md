@@ -33,7 +33,7 @@ There are a couple of more interesting developments in AI this week but I will k
 
 ## In the Lab
 
-![]({{site.baseurl}}/images/Post_2016-11-06_Brindasso1.png) ![]({{site.baseurl}}/images/Post_2016-11-06_Brindasso2.png) ![]({{site.baseurl}}/images/Post_2016-11-06_Brindasso3.png)
+![]({{site.baseurl}}/images/Post_2016-11-06_Brindasso1.png) ![]({{site.baseurl}}/images/Post_2016-11-06_Brindasso3.png)
 
 
 
