@@ -17,7 +17,9 @@ After a crazy night in the "Lab" experimenting with liquid nitrogen and all sort
 - LipNet is trained end-to-end to make speaker-independent sentence-level predictions. Look out for this to be applied in industrial spionage (Remember to cover your mouth from now on when cameras around)
 
 ## Discovering new drugs with Deep Learning 
-_Ingesting a heap of drug data allows a machine-learning system to suggest alternatives humans hadn’t tried yet. ([Link](https://www.technologyreview.com/s/602756/software-dreams-up-new-molecules-in-quest-for-wonder-drugs/))_
+_Ingesting a heap of drug data allows a machine-learning system to suggest alternatives humans hadn’t tried yet. ([Link](https://www.technologyreview.com/s/602756/software-dreams-up-new-molecules-in-quest-for-wonder-drugs/), [Link to Paper](https://arxiv.org/pdf/1610.02415v1.pdf) )_ 
+
+![]({{site.baseurl}}/images/Post_2016-11-06_Week_in_AI_Drug_discovery.png)
 
 **Highlits:** A new artificial intelligence aims to create new drugs by learning what molecules already work and what may fit with existing patterns. _"The system can dream up structures more independently of humans and without lengthy simulations. It leverages its own experience, built up by training machine-learning algorithms with data on hundreds of thousands of drug-like molecules. It explores more intuitively, using chemical knowledge it learned, like a chemist would"_
 
